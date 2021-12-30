@@ -1,0 +1,8 @@
+create table Member(
+  id varchar(20) primary key not null,
+  pw varchar(30) not null,
+  salt varchar(30) not null,
+  name varchar(20) not null,
+  email varchar(50) not null,
+  level int default 0 not null
+);
