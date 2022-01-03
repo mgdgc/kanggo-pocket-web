@@ -1,5 +1,5 @@
 
-<img src="preview.jpg" width="720px"/>
+<img src="preview.JPG" width="720px"/>
 
 > 런칭 당시 공지사항 Preview
 
